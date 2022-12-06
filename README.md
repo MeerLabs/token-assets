@@ -22,14 +22,14 @@ Checksum地址是指在以太坊网络中包含大写和小写字母的合约地
 注意：如文件格式不正确将无法通过审核！
 ```
 {
- "name": "TokenPocket Token",
- "website": "https://tokenpocket.pro",
- "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
- "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
- "type": "BEP20",
- "symbol": "TPT",
- "decimals": 4,
- "status": "active",
- "id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
+    "name": "Meer USD",
+    "website": "https://www.qitmeer.io",
+    "description": "",
+    "explorer": "https://evm.meerscan.io/address/0xf16FE840D83d23509fe5642FC1642BC302E12E0d",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf16FE840D83d23509fe5642FC1642BC302E12E0d"
 }
 ```
